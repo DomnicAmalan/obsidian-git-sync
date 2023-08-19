@@ -72,8 +72,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "819c133642f56eef",
@@ -131,6 +130,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f9b4348e6e72b6e",
-  "lastOpenFiles": []
+  "active": "b47b334de9b10f01",
+  "lastOpenFiles": [
+    "/Test.md"
+  ]
 }
